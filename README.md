@@ -1,29 +1,18 @@
 # Zhiyuan Zhang
 
-Computer Science undergraduate at Tsinghua University. I like turning rough ideas into working systems, especially around AI applications, agents, software products, and hardware-adjacent experiments.
+Computer Science undergraduate at Tsinghua University. I am currently doing AI-related research at the Tsinghua KEG group.
 
 ## Interests
 
-- AI agents and model-powered workflows
-- Full-stack software engineering
-- Digital logic, FPGA labs, and low-level systems
-- Tools that make learning, writing, or building a little less painful
+- Artificial intelligence and knowledge engineering
+- Large language models and agentic workflows
+- Practical tools for learning, writing, and research
 
-## Projects
+## Notes
 
-- [Ant-Game](https://github.com/Yanis01682/Ant-Game)  
-  Agent competition project for an Antwar-style environment.
+Most repositories here are course archives, experiments, or small personal projects. A few public repositories are kept mainly as records of things I built or learned from.
 
-- [REKCARC-TSC-UHT fork](https://github.com/Yanis01682/REKCARC-TSC-UHT)  
-  Small contributions to public Tsinghua course-review materials.
-
-- [SkyNews](https://github.com/Yanis01682/SkyNews)  
-  A news-oriented project from earlier coursework and experiments.
-
-- [flavor-collection](https://github.com/Yanis01682/flavor-collection)  
-  A small personal collection project.
-
-Most other public repositories here are course archives, experiments, or small labs. They are kept mostly for reference, not as flagship projects.
+Some course repositories are public for reference, but they are not meant to be portfolio highlights.
 
 ## Contact
 
