@@ -1,31 +1,29 @@
-# Hi, I'm Zhiyuan Zhang
+# Zhiyuan Zhang
 
-Computer Science undergraduate at Tsinghua University. I like building systems that make ideas concrete: AI applications, software projects, digital logic designs, and the occasional quantum-computing experiment.
+Computer Science undergraduate at Tsinghua University. I like turning rough ideas into working systems, especially around AI applications, agents, software products, and hardware-adjacent experiments.
 
-## What I Work On
+## Interests
 
-- **AI and agents**: prompts, model workflows, image-generation tooling, and practical AI applications.
-- **Software engineering**: full-stack projects, product-shaped course projects, and clean documentation.
-- **Digital systems**: SystemVerilog, Vivado labs, FPGA experiments, and exam-oriented hardware notes.
-- **Course archives**: organized notes, assignments, and reports for courses I have taken.
+- AI agents and model-powered workflows
+- Full-stack software engineering
+- Digital logic, FPGA labs, and low-level systems
+- Tools that make learning, writing, or building a little less painful
 
-## Selected Projects
-
-- [Introduction to Artificial Intelligence](https://github.com/Yanis01682/Introduction-to-Artificial-Intelligence)  
-  Course materials and lab implementations, including pinyin input, sentiment classification, and an Antwar replacement assignment link.
-
-- [Digital Logic Circuit](https://github.com/Yanis01682/Digital-Logic-Circuit)  
-  Notes, homework materials, and exam-oriented references for digital logic.
+## Projects
 
 - [Ant-Game](https://github.com/Yanis01682/Ant-Game)  
-  Agent competition project used as the replacement assignment for an AI course lab.
+  Agent competition project for an Antwar-style environment.
 
 - [REKCARC-TSC-UHT fork](https://github.com/Yanis01682/REKCARC-TSC-UHT)  
-  Contributions and references for public Tsinghua course-review materials.
+  Small contributions to public Tsinghua course-review materials.
 
-## Course Repositories
+- [SkyNews](https://github.com/Yanis01682/SkyNews)  
+  A news-oriented project from earlier coursework and experiments.
 
-Some course repositories are public when they mainly contain my own notes or shareable materials. Others stay private when they include course handouts, submitted coursework, or materials that are better kept as a personal archive.
+- [flavor-collection](https://github.com/Yanis01682/flavor-collection)  
+  A small personal collection project.
+
+Most other public repositories here are course archives, experiments, or small labs. They are kept mostly for reference, not as flagship projects.
 
 ## Contact
 
